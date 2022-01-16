@@ -53,3 +53,7 @@ main > section button {
 #detalhes-container > li p {
     color: beige;
 }
+
+#bd {
+    display: none;
+}
